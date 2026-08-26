@@ -95,17 +95,5 @@ Through this project, I strengthened my understanding of:
 
 ## 🌐 Live Demo
 
-**[https://mycinewave.netlify.app/)**
-
----
-
-
-## 👩‍💻 Developer
-
-**Megha Kundu**
-
-Frontend / Full Stack Developer
-
-**Technologies:** React.js • JavaScript • HTML • CSS • Node.js • Express.js • MongoDB
-
+**[View Live Project](https://mycinewave.netlify.app/)**
 
