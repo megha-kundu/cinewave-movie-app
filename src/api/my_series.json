@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ARAFTA",
+    "id": "arafta",
+    "img_url": "Arafta.jpg",
+    "rating": "9.7",
+    "description": "Arafta (also known as Bound By Fate) is a 2025 Turkish drama that centers on a high-stakes enemies-to-lovers story driven by family vendettas and traumatic pasts.",
+    "cast": [
+      "Emin Günenç",
+      "İlsu Demirci"
+    ],
+    "genre": [
+      "Romantic",
+      "Revenge",
+      "Turkish Series"
+    ],
+    "watch_url": "https://dizilah.com/show/arafta"
+  },
+  {
+    "name": "Lovely Runner",
+    "id": "lovely-runner",
+    "img_url": "../../images/download.jpg",
+    "rating": "9.8",
+    "description": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae.",
+    "cast": [
+      "Kim Hye Yoon",
+      "Byeon Woo Seok",
+      "Song Geon Hee"
+    ],
+    "genre": [
+      "Romantic Comedy",
+      "Fantasy"
+    ],
+    "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
+  },
+  {
+    "name": "Business Proposal",
+    "id": "business-proposal",
+    "img_url": "business proposal.jpg",
+    "rating": "9.2",
+    "description": "a lighthearted and fast-paced Korean romantic comedy where a young office worker goes on a blind date in place of her friend, only to discover the man she is trying  to scare away is actually her company's handsome CEO.",
+    "cast": [
+      "Kim-Sejeog",
+      "Ahn Hyo-seop",
+      "Kim Min-kyu",
+      "Seoul In-ah"
+    ],
+    "genre": [
+      " Korean TV Drama",
+      "Rom-Com",
+      "Action"
+    ],
+    "watch_url": "https://www.netflix.com/title/81509440"
+  },
+  {
+    "name": "Queen of Tears",
+    "id": "Queen-of-tears",
+    "img_url": "queen of tears.jpg",
+    "rating": "9.4",
+    "description": "a romantic K-drama that tells the love story of a married chaebol heiress and her small-town husband as they overcome a life-threatening crisis and rekindle their love against all odds.",
+    "cast": [
+      "Kim Ji-won",
+      "Kim Soo-hyun",
+      "Park Sung-hoon"
+    ],
+    "genre": [
+      "Romance",
+      "Romactic Comedy",
+      "Kdrama"
+    ],
+    "watch_url": "https://www.netflix.com/title/81707950"
+  },
+  {
+    "name": "My Demon",
+    "id": "my-demon",
+    "img_url": "my demon.jpg",
+    "rating": "9.6",
+    "description": "A  powerful, centuries-old demon who makes soul-bargains but loses his powers, becoming tethered to a cold heiress.",
+    "cast": [
+      "Song Kang",
+      "Kim You-jung",
+      "Jo Hye-joo"
+    ],
+    "genre": [
+      "Korean TV Comedies",
+      "Romance",
+      "Drama"
+    ],
+    "watch_url": "https://www.netflix.com/title/81716080"
+  },
+  {
+    "name": "Goblin",
+    "id": "goblin",
+    "img_url": "goblin.webp",
+    "rating": "9.6",
+    "description": "A modern fantasy about a goblin who needs a human bride to end his immortal life.",
+    "cast": [
+      "Gong Yoo",
+      "Kim Go Eun",
+      "Lee Dong Wook"
+    ],
+    "genre": [
+      "Romance",
+      "Fantasy",
+      "Drama"
+    ],
+    "watch_url": "https://www.viki.com/tv/31706c-guardian-the-lonely-and-great-god"
+  },
+  {
+    "name": "Crash Landing on You",
+    "id": "crash-landing-on-you",
+    "img_url": "crash-landing-you.jpg",
+    "rating": "9.5",
+    "description": "A South Korean heiress accidentally lands in North Korea and meets an army officer.",
+    "cast": [
+      "Hyun Bin",
+      "Son Ye Jin",
+      "Seo Ji Hye"
+    ],
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "watch_url": "https://www.netflix.com/title/81159258"
+  },
+  {
+    "name": "Vincenzo",
+    "id": "Vincenzo",
+    "img_url": "VINCENZO.jpg",
+    "rating": "9.5",
+    "description": "During a visit to his motherland, a Korean-Italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice.",
+    "cast": [
+      "Song Joong-ki",
+      "Ok Taec-yeon",
+      "Jeon Yeo-been"
+    ],
+    "genre": [
+      "Crime",
+      "action Kdrama",
+      "Thriller"
+    ],
+    "watch_url": "https://www.netflix.com/title/81365087"
+  },
+  {
+    "name": "All of Us Are Dead",
+    "id": "all-of-us-are-dead",
+    "img_url": "all_of_us_are_dead.jpg",
+    "rating": "8.5",
+    "description": "A zombie virus outbreak traps students inside their high school.",
+    "cast": [
+      "Park Ji Hu",
+      "Yoon Chan Young",
+      "Cho Yi Hyun"
+    ],
+    "genre": [
+      "Horror",
+      "Thriller",
+      "Drama"
+    ],
+    "watch_url": "https://www.netflix.com/title/81237994"
+  }
+]
