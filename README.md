@@ -1,16 +1,111 @@
-# React + Vite
+# 🎬 CineWave — Movie & Series Discovery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern and responsive React.js application for discovering movies and TV series, searching titles, and building a personal watchlist.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Overview
 
-## React Compiler
+**CineWave** is a responsive movie and series discovery application built with **React.js**. It allows users to search and explore titles, view movie information, and save favorite content to a personal watchlist.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The project focuses on **API integration, reusable React components, client-side state management, Local Storage, and responsive UI design** to create a smooth browsing experience.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Key Features
+
+* 🔍 **Dynamic Movie & Series Search** — Search for titles through API-powered data.
+* 🎬 **Movie & Series Discovery** — Explore available entertainment content.
+* 📌 **Personal Watchlist** — Save favorite titles for later.
+* 💾 **Persistent Storage** — Watchlist data is preserved using browser Local Storage.
+* 👤 **Profile Section** — View and manage saved titles in one place.
+* 📱 **Responsive Design** — Optimized for desktop, tablet, and mobile screens.
+* ⚡ **Dynamic UI Rendering** — Content updates based on user interactions and API responses.
+* 🧩 **Reusable Components** — Built with modular React components for maintainable code.
+* 🎨 **Modern User Interface** — Clean, interactive, and movie-focused design.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* **React.js**
+* **JavaScript (ES6+)**
+* **HTML5**
+* **CSS3**
+
+### API & Data
+
+* **REST API**
+* **Fetch API**
+* **Local Storage**
+
+### Development & Deployment
+
+* **Vite**
+* **Git & GitHub**
+* **Netlify**
+
+---
+
+## 🏗️ Application Flow
+
+```text
+User
+  ↓
+React UI
+  ↓
+Search / Browse
+  ↓
+REST API
+  ↓
+Movie & Series Data
+  ↓
+React Components
+  ↓
+Watchlist
+  ↓
+Local Storage
+```
+
+
+## 💡 What I Practiced
+
+Through this project, I strengthened my understanding of:
+
+* React component-based architecture
+* API integration and asynchronous data fetching
+* JavaScript ES6+ concepts
+* React state management
+* Event handling
+* Conditional rendering
+* Local Storage
+* Responsive web design
+* Reusable UI components
+* Frontend debugging and deployment
+
+---
+
+## 🎯 Project Highlights
+
+**CineWave demonstrates how a modern frontend application can combine external API data with client-side state and browser storage to create an interactive user experience.**
+
+---
+
+## 🌐 Live Demo
+
+**[https://mycinewave.netlify.app/)**
+
+---
+
+
+## 👩‍💻 Developer
+
+**Megha Kundu**
+
+Frontend / Full Stack Developer
+
+**Technologies:** React.js • JavaScript • HTML • CSS • Node.js • Express.js • MongoDB
+
+
