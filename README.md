@@ -96,4 +96,4 @@ Through this project, I strengthened my understanding of:
 ## 🌐 Live Demo
 
 **[View Live Project](https://mycinewave.netlify.app/)**
-
+Note: The live site is hosted on a free tier. It may take up to 60 seconds to load initially while the server wakes up. Thank you for your patience!
